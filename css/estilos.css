@@ -6,6 +6,9 @@ article {
 article h2 {
     color: palevioletred;
 }
+article dt {
+    color: rgb(96, 96, 207);
+}
 h1 {
     border:dotted purple 5px;
     background-color: antiquewhite;
